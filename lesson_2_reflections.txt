@@ -1,3 +1,7 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: It creates folder ".git", which stores history of all commits.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: It helps to think twice about what to put in commit.
