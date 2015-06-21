@@ -21,3 +21,7 @@ A: Diagrams shows which commits are in which branch in one log of commits.
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: Result of merging is that all commits from two branches are in one branch. Diagram - is the best way to understand how merge works.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: If it is possible, it's easier to allow automatic merging. But if there are conflicts it's always better to resolve it manually.
