@@ -19,3 +19,7 @@ A: It will be easier to merge.
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A: Git allows to collaborate without GitHub, but it would be harder to deal with merges, because there are no pull requests. But without git, all work, which related to version control, must be done via browser, which is not so pretty fast, like via git bash.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: I can do different experiments in branch without getting master broke down.
